@@ -9,6 +9,10 @@ Entrega de fichero de objetivos
 *Borrar lo que no corresponda*
 ** Y estas notas también **
 
+## Primero y más importante
+
+* [ ] Prometo no cerrar *nunca* un PR
+
 ## Enlace a fichero de objetivos 
 
 <enlace a los objetivos correspondientes a este hito>
