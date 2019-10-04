@@ -53,21 +53,9 @@ EOC
   my $student_repo =  Git->repository ( Directory => $repo_dir );
   my @repo_files = $student_repo->command("ls-files");
   say "Ficheros\n\t→", join( "\n\t→", @repo_files);
-  isnt( grep(/proyectos\/hito.0.md/, @repo_files), 1, "No es el repositorio de la asignatura");
+  isnt( grep(/proyectos\/0.md/, @repo_files), 1, "No es el repositorio de la asignatura");
   for my $f (qw( README.md .gitignore LICENSE )) {
     isnt( grep( /$f/, @repo_files), 0, "$f presente" );
-  }
-
-  if ( $this_hito > 0 ) { # Comprobar milestones y eso 
-    cmp_ok( how_many_milestones( $user, $name), ">=", 3, "Número de hitos correcto");
-    
-    my @closed_issues =  closed_issues($user, $name);
-    cmp_ok( $#closed_issues , ">=", 0, "Hay ". scalar(@closed_issues). " issues cerrado(s)");
-    for my $i (@closed_issues) {
-      my ($issue_id) = ($i =~ /(\d+)/);
-      
-      is(closes_from_commit($user,$name,$issue_id), 1, "El issue $issue_id se ha cerrado desde commit")
-    }
   }
 
   my $README;
@@ -173,29 +161,6 @@ sub fichero_objetivos {
   my @enviados = map { lc } @ficheros_objetivos;
   my $lc_user = lc $user;
   return grep( /$lc_user/, @enviados);
-}
-
-sub how_many_milestones {
-  my ($user,$repo) = @_;
-  my $page_url = "https://github.com/$user/$repo/milestones";
-  my $page = get( $page_url ) or BAIL_OUT("No puedo descargar la página $page_url de GitHub");
-  my ($milestones ) = ( $page =~ /(\d+)\s+Open/s);
-  return $milestones;
-}
-
-sub closed_issues {
-  my ($user,$repo) = @_;
-  my $page = get( "https://github.com/$user/$repo".'/issues?q=is%3Aissue+is%3Aclosed' );
-  my (@closed_issues ) = ( $page =~ m{<a\s+(id=\".+?\")}gs );
-  return @closed_issues;
-
-}
-
-sub closes_from_commit {
-  my ($user,$repo,$issue) = @_;
-  my $page = get( "https://github.com/$user/$repo/issues/$issue" );
-  return $page =~ /closed\s+this\s+in/gs ;
-
 }
 
 sub check {
