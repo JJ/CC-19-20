@@ -11,4 +11,4 @@
  [x] Manejar de forma básica la línea de órdenes de Linux.
  [x] Aprender a instalar software libre en Linux.
  [x] Entregar el fichero de objetivos y los primeros ejercicios usando GitHub.
- [x] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+ [] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
