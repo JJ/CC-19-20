@@ -17,8 +17,7 @@
   * Configurar la línea de órdenes para presentar información de
     repos.
   * Conocer permisos y cuales usar en cada momento.
-* Haber entregado el hito 0 del proyecto y entender qué se buscaba con
-  el mismo.
+* Entender lo necesario para entregar el hito 0 del proyecto.
 
 
 ## Material para la clase
@@ -30,4 +29,4 @@ antes del 10 de octubre a las 7:30 de la tarde.
 
 ## Siguiente semana
 
-[Tercera semana, desde el 17 de octubre ](03-semana.md)
+[Tercera semana, desde el 14 de octubre ](03-semana.md)
