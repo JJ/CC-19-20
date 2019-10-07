@@ -12,7 +12,7 @@
 
 **Otros objetivos**
 [Enlace a ejercicios del tema 1](https://github.com/manuelalonsobraojos/cc-ejercicios/blob/master/Ejercicios-tema1/EjerciciosTema1.md)
-* [X] 8.Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura
+* [X] 8.Tener a punto una instalación Linux para llevar a cabo las actividades de la asignatura.
 * [x] 9.Usar los métodos de entrega de los objetivos propuestos para la asignatura usando GitHub.
 * [x] 10.Manejar de forma básica la línea de órdenes de Linux.
 * [x] 11.Aprender a instalar software libre en Linux.
@@ -20,4 +20,4 @@
 * [x] 13.Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 * [x] 14.Entregar archivo de objetivos.
 * [x] 15.Crear repositorio de ejercicios y realización de los ejercicios del tema 1.
-* [x] 16.Creación de repositorio del proyecto
+* [x] 16.Creación de repositorio del proyecto.
