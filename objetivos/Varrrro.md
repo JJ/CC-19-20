@@ -10,9 +10,9 @@
 - [X] Hacer fork del repositorio del profesor.
 - [X] Crear el fichero de objetivos.
 - [X] Entregar los primeros ejercicios usando GitHub.
-- [] Crear el repositorio del proyecto (con los archivos pertinentes).
-- [] Enlazar el repositorio del proyecto en el archivo de hitos.
-- [] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
+- [ ] Crear el repositorio del proyecto (con los archivos pertinentes).
+- [ ] Enlazar el repositorio del proyecto en el archivo de hitos.
+- [ ] Conocer dónde se pueden obtener recursos cloud gratuitos para usar en la asignatura.
 - [X] Comprender la metodología de desarrollo, prueba y despliegue en la que se basa la computación en la nube.
-- [] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
+- [ ] Entender en qué consiste el proyecto de la asignatura y comenzar a trabajar en el mismo.
 
