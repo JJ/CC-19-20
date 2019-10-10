@@ -12,8 +12,8 @@
 - [x] I forked and cloned JJ's repository.
 - [x] create my objectives file.
 - [x] Understand the development, testing, and deployment methodology on which cloud computing is based.
-- [ ] Push "Hito 0"
-- [ ] Push Theme 1 Exercises 
+- [x] Push "Hito 0"
+- [x] Push Theme 1 Exercises 
 - [x] Understand what the course project consists of and start working on it.
 - [x] Know where you can get free cloud resources to use in your course.
 - [x] Update github info/avatar
