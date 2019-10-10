@@ -1,10 +1,12 @@
 # Cloud Computing objetives
 
+- [x] I'll never erase a pull request.
+
 ## Link to my exercises repository
 
 [m-ii-cc](https://github.com/lobolanja/m-ii-cc)
 
-## Objetivos del hito 0
+## "Hito 0" objectives
 
 - [x] Added telegram nick, git and email to the shared document.
 - [x] Start using git from the command line and understand its basic workings.
