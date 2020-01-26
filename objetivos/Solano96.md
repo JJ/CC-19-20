@@ -56,3 +56,13 @@ Enlace a los [ejercicios de contenedores](https://github.com/Solano96/CC-Exercis
 - [x] Entender la configuración de infraestructura virtual desde contenedores.
 - [x] Comprender cómo esta configuración forma parte de arquitecturas nativas en la nube.
 - [x] Entender el ecosistema de contenedores y diferentes alternativas a todas las aplicaciones.
+
+## Objetivos del hito 4
+
+Enlace a los [ejercicios del tema 4](https://github.com/Solano96/CC-Exercises/blob/master/Contenedores.md) de Cloud Computing.
+
+- [X] Corregir errores del hito 3.
+- [X] Desplegar el segundo microservicio.
+- [X] Mejorar las prestaciones de los microservicios.
+- [X] Aprender el uso de Taurus.
+- [X] Hacer uso de Taurus para la evaluación de las prestaciones.
