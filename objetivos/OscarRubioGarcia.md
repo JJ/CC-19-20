@@ -56,3 +56,10 @@
 * [x] Aprender a utilizar el software Taurus para la creación de Benchmarks.
 * [x] Realizacion de experimentación con Taurus y optimización del sistema debido a ello. [Experimentación](https://github.com/OscarRubioGarcia/CCProyecto/blob/master/docs/Taurus.md)
 
+## Objetivos del hito 5
+* [x] Aprender a utilizar el software ansible
+* [x] Aprender a utilizar servicios de alquiler de máquinas virtuales online
+* [x] Aprender el lenguaje utilizado por ansible
+* [x] Aprender a utilizar correctamente los roles de ansible.galaxy
+* [x] La realización de los ejercicios de este tema fue realizada durante el provisionamiento del proyecto debido a razones de tiempo. [Ejercicios en doc Provisionamiento](https://github.com/OscarRubioGarcia/CCProyecto/blob/master/docs/Provisionamiento.md)
+
