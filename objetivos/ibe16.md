@@ -64,7 +64,7 @@
 - [X] Corregir los errores del hito anterior
 
 # Objetivos Hito 5
-[Enlace al repositorio de mis ejercicios](https://github.com/ibe16/CC-19-20-Ejercicios)
+[Enlace al repositorio](https://github.com/ibe16/CC-19-20-Proyecto)
 
 - [X] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
 - [X] Documentar y mantener una plataforma virtual.
