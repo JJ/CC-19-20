@@ -93,9 +93,17 @@ Vernos las caras.
 - [x] Investigar sobre herramientas medidas numéricas de prestaciones como Taurus y [como usarlas](https://www.blazemeter.com/blog/how-execute-load-test-using-taurus-docker-image/) de manera correcta.
 - [x] Aprender a usar Taurus de manera adecuada enviando [distintos tipos de peticiones](https://gettaurus.org/docs/JMeter/#HTTP-Requests).
 
-- [ ] Tener listos diferentes sistemas cloud donde se puedan desplegar máquinas virtuales.
+- [x] Tener listos diferentes sistemas cloud donde se puedan desplegar máquinas virtuales.
 - [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
-- [ ] Instalar y configurar diferentes sistemas de provisionamiento.
+- [x] Instalar y configurar diferentes sistemas de provisionamiento.
 - [x] Entender los conceptos de los sistemas de máquinas virtuales y cómo configurarlos desde línea de órdenes.
 - [x] Entender las nociones básicas de seguridad.
+
+- [x] Entender los recursos para automatización de actividades en la nube
+- [x] Entender el concepto de infraestructura definida por software.
+- [x] Entender el concepto de sistema completo y cómo arrancarlo.
+- [x] Tener listas instalaciones que funcionen de [ansible con EC2](https://sysgears.com/articles/managing-configuration-of-distributed-system-with-apache-zookeeper/), herramienta de línea de órdenes de Amazon.
+- [x] Entender los conceptos medición de prestaciones
+- [x] Entender los conceptos detrás del provisionamiento de una máquina virtual o contenedor.
+- [x] Entender las diferentes fases de despliegue de una aplicación.
 
