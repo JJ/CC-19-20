@@ -4,6 +4,7 @@
 [Tema1](https://github.com/carlos-el/Ejercicios-CC/blob/master/Tema1-Arquitecturas_para_la_nube.md), 
 [Tema2](https://github.com/carlos-el/Ejercicios-CC/blob/master/Tema2-Desarrollo_basado_en_pruebas.md)
 [Tema4](https://github.com/carlos-el/Ejercicios-CC/blob/master/Tema4-Contenedores_y_como_usarlos.md)
+[Tema5](https://github.com/carlos-el/Ejercicios-CC/blob/master/Tema5-Provisionamiento.md)
 
 ### Objetivos del hito 0:
 
@@ -102,7 +103,7 @@ Vernos las caras.
 - [x] Entender los recursos para automatización de actividades en la nube
 - [x] Entender el concepto de infraestructura definida por software.
 - [x] Entender el concepto de sistema completo y cómo arrancarlo.
-- [x] Tener listas instalaciones que funcionen de [ansible con EC2](https://sysgears.com/articles/managing-configuration-of-distributed-system-with-apache-zookeeper/), herramienta de línea de órdenes de Amazon.
+- [x] Tener listas instalaciones que funcionen de [ansible con EC2](https://sysgears.com/articles/managing-configuration-of-distributed-system-with-apache-zookeeper/), herramienta de [línea de órdenes de Amazon](https://github.com/carlos-el/Ejercicios-CC/blob/master/Tema5-Provisionamiento.md#ejercicio_de_objetivos).
 - [x] Entender los conceptos medición de prestaciones
 - [x] Entender los conceptos detrás del provisionamiento de una máquina virtual o contenedor.
 - [x] Entender las diferentes fases de despliegue de una aplicación.
