@@ -62,3 +62,13 @@
 - [X] Extender los microservicios con el almacenamiento de datos que se haya elegido para ellos.
 - [X] Extender el nivel de prestaciones de los microservicios, de forma que sean capaces de alcanzar un nivel aproximado de 1000 peticiones por segundo.
 - [X] Corregir los errores del hito anterior
+
+# Objetivos Hito 5
+[Enlace al repositorio de mis ejercicios](https://github.com/ibe16/CC-19-20-Ejercicios)
+
+- [X] Diseñar, construir y analizar las prestaciones de un centro de proceso de datos virtual.
+- [X] Documentar y mantener una plataforma virtual.
+- [X] Realizar tareas de administración en infraestructura virtual.
+- [X] Aprender lenguajes de configuración usados en infraestructuras virtuales.
+- [X] Saber cómo aplicarlos en un caso determinado.
+- [X] Conocer los sistemas de gestión de la configuración, provisionamiento y monitorización más usados hoy en día.
