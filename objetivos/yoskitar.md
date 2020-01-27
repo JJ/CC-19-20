@@ -206,16 +206,16 @@
 
 - [X] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
 
-- [] Instalar y configurar diferentes sistemas de provisionamiento.
+- [X] Instalar y configurar diferentes sistemas de provisionamiento.
 
-- [] Entender los conceptos de los sistemas de máquinas virtuales y cómo configurarlos desde línea de órdenes.
-- [] Entender las nociones básicas de seguridad.
+- [X] Entender los conceptos de los sistemas de máquinas virtuales y cómo configurarlos desde línea de órdenes.
+- [ ] Entender las nociones básicas de seguridad.
 
 ### Semana 11
 
 - [X] Entender los recursos para automatización de actividades en la nube.
 - [X] Entender el concepto de infraestructura definida por software.
-- [ ] Entender el concepto de sistema completo y cómo arrancarlo.
+- [X] Entender el concepto de sistema completo y cómo arrancarlo.
 
 ## Otros objetivos del hito 4
 
@@ -229,3 +229,18 @@
 	 - [X] [Prácticamente nadie crea usuarios dentro del contenedor. Aunque no es imprescincible, es una buena práctica que conviene seguir.](https://github.com/yoskitar/Cloud-Computing-CC/blob/master/Dockerfile)
 	- [X] Los commits deben siempre, salvo en casos excepcionales, referirse a un issue. Los issues no están para cerrarlos y pasar el test. 
 - [ ] Instalarse los diferentes clientes de líneas de órdenes de los sistemas en la nube a los que se tenga acceso.
+
+## Objetivos del hito 5
+
+[Ejercicios desarrollados para la adquisición de competencias relacionadas con los objetivos provisionamiento y VMs.](https://github.com/yoskitar/Ejercicios-CC/blob/master/Ejercicios%20Tema%205.md)
+
+### Semana 12
+
+- [X] Entender los conceptos medición de prestaciones
+- [X] Entender los conceptos detrás del provisionamiento de una máquina virtual o contenedor.
+- [X] Entender las diferentes fases de despliegue de una aplicación.
+
+## Otros objetivos del hito 5
+
+- [X] Probar sistemas de aprovisionamiento, especialmente Ansible.
+- [X] Entender la *galaxia* de Ansible y en qué nos puede ayudar.
