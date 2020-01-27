@@ -70,7 +70,7 @@
 
 ## Objetivos Semana 6
 
-[Enlace a los ejercicios del tema Desarrollo basado en pruebas](https://github.com/toniMR/CC-Ejercicios/blob/master/contenedores.md)
+[Enlace a los ejercicios del tema Contenedores y cómo usarlos](https://github.com/toniMR/CC-Ejercicios/blob/master/contenedores.md)
 
 - [X] Entender las arquitecturas de software en la nube de uso en la actualidad.
 - [X] Comprender el papel fundamental de la infraestructura virtual en este proceso.
@@ -115,16 +115,18 @@
   - [X] [Azure](https://azure.microsoft.com/es-es/free/)
   - [X] [Google Cloud](https://cloud.google.com/ )
 - [X] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
-- [ ] Instalar y configurar diferentes sistemas de provisionamiento.
-- [ ] Entender los conceptos de los sistemas de máquinas virtuales y cómo configurarlos desde línea de órdenes.
+- [X] Instalar y configurar diferentes sistemas de provisionamiento.
+- [X] Entender los conceptos de los sistemas de máquinas virtuales y cómo configurarlos desde línea de órdenes.
 - [X] Entender las nociones básicas de seguridad.
 
 ## Objetivos Semana 12
 
+[Enlace a los ejercicios del tema Provisionamiento en infraestructuras virtuales](https://github.com/toniMR/CC-Ejercicios/blob/master/provisionamiento.md)
+
 - [X] Entender los recursos para automatización de actividades en la nube.
-- [ ] Entender el concepto de infraestructura definida por software.
-- [ ] Entender el concepto de sistema completo y cómo arrancarlo.
-- [ ] Tener listas instalaciones que funcionen de ansible (u otro sistema de medición de prestaciones), vagrant, herramienta de línea de órdenes de Azure o Google.
+- [X] Entender el concepto de infraestructura definida por software.
+- [X] Entender el concepto de sistema completo y cómo arrancarlo.
+- [X] Tener listas instalaciones que funcionen de ansible (u otro sistema de medición de prestaciones), vagrant, herramienta de línea de órdenes de Azure o Google.
 
 ## Objetivos Semana 13
 
