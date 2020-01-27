@@ -72,3 +72,16 @@
 - [X] Entender el concepto de sistema completo y cómo arrancarlo.
 - [X] Tener listos diferentes sistemas cloud donde se puedan desplegar máquinas virtuales.
 - [X] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
+
+# Hito 5
+
+[Ejercicios del tema 5](https://github.com/Varrrro/EjerciciosCC-19-20/blob/master/Ejercicios_Tema5.md)
+
+- [X] Instalar y configurar diferentes sistemas de provisionamiento.
+- [X] Entender los conceptos de los sistemas de máquinas virtuales y cómo configurarlos desde la línea de órdenes.
+- [X] Entender las nociones básicas de seguridad.
+- [X] Entender los recursos de automatización de actividades en la nube.
+- [X] Entender el concepto de arquitectura definida por software.
+- [X] Entender el concepto de sistema completo y cómo arrancarlo.
+- [X] Entender los conceptos detrás del provisionamiento de una máquina virtual o contenedor.
+- [X] Entender las diferentes fases de despliegue de una aplicación.
