@@ -1,14 +1,14 @@
 # Disposición de Objetivos
 
-El Enlace al repositorio que se usara para entregar todas las tareas de la asignatura se puede encontrar [aquí](https://github.com/FernandoRoldan93/CloudComputing)
+El Enlace al repositorio que se usara para entregar todas las tareas de la asignatura se puede encontrar [aquí](https://github.com/FernandoRoldan93/Ejercicios-CC)
 
-[Ejercicios arquitecturas cloud.](https://github.com/FernandoRoldan93/CloudComputing/blob/master/doc/Tema1/Arquitecturas_para_la_nube.md)
+[Ejercicios arquitecturas cloud.](https://github.com/FernandoRoldan93/Ejercicios-CC/blob/master/doc/Arquitecturas_para_la_nube.md)
 
-[Ejercicios desarrollo basado en pruebas.](https://github.com/FernandoRoldan93/CloudComputing/blob/master/doc/Tema1/Desarrollo_Basado_En_Pruebas.md)
+[Ejercicios desarrollo basado en pruebas.](https://github.com/FernandoRoldan93/Ejercicios-CC/blob/master/doc/Desarrollo_Basado_En_Pruebas.md)
 
 #### Semana 1
 
- - [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
+- [x] Entender la metodología docente, de evaluación y de interacción de la asignatura.
 - [x] Darse de alta y comprender el funcionamiento básico
    de git y [GitHub](https://github.com) y el grupo de Telegram de la
    asignatura; conocer y entender el resto de los recursos de la asignatura.
@@ -53,11 +53,11 @@ El Enlace al repositorio que se usara para entregar todas las tareas de la asign
 
 #### Semana 6
 
-- [ ] Entender las arquitecturas de software en la nube de uso en la actualidad.
+- [x] Entender las arquitecturas de software en la nube de uso en la actualidad.
 
-- [ ] Comprender el paper fundamental de la infraestructura virtual en este proceso.
+- [x] Comprender el paper fundamental de la infraestructura virtual en este proceso.
 
-- [ ] Comprender el tipo de aplicaciones que se despliegan en la nube.
+- [x] Comprender el tipo de aplicaciones que se despliegan en la nube.
 
 #### Semana 7
 
@@ -67,9 +67,15 @@ El Enlace al repositorio que se usara para entregar todas las tareas de la asign
 
 - [ ] Comprender el tipo de aplicaciones que se despliegan en la nube.
 
-- [ ] Entender el papel de los contenedores en la infraestructura virtual.
+- [x] Entender el papel de los contenedores en la infraestructura virtual.
 
-- [ ] Comprender los procesos de definición de contenedores.
+- [x] Comprender los procesos de definición de contenedores.
+
+- [x] Entregar el hito 2
+
+- [x] Darse de alta en Docker Hub
+
+- [x] Instalar las herramientas de Docker
 
 #### Semana 8
 
