@@ -4,6 +4,8 @@
 [Enlace al repositorio con los ejercicios de la asignatura](https://github.com/mcrosales/CC-19-20-Ejercicios)
 [Ejercicios Tema 1](https://github.com/mcrosales/CC-19-20-Ejercicios/blob/master/ArquitecturaParaLaNube.md)
 [Ejercicios Tema 2](https://github.com/mcrosales/CC-19-20-Ejercicios/blob/master/Desarrollo%20basado%20en%20pruebas.md)
+[Ejercicios Tema 3_1](https://github.com/mcrosales/CC-19-20-Ejercicios/blob/master/Contenedores.md)
+[Ejercicios Tema 3_2](https://github.com/mcrosales/CC-19-20-Ejercicios/blob/master/Microservicios.md)
 
 
 ### Objetivos Hito 0:
@@ -40,3 +42,15 @@
 - [X] Comprender el tipo de aplicaciones que se despliegan en la nube.
 - [] Instalar las herramientas de línea de órdenes de las herramientas cloud.
 - [] Hacerse con alguna cuenta gratuita o bonificada de cloud.
+
+
+### Objetivos Hito 3
+- [X] Entender los mecanismos de diseño, prueba y despliegue de un microservicio antes de efectuarlo y enviarlo a la nube.
+- [X] Comprender el papel fundamental de la infraestructura virtual en este proceso.
+- [X] Comprender el tipo de aplicaciones que se despliegan en la nube.
+- [X] Entender el papel de los contenedores en la infraestructura virtual.
+- [X] Comprender los procesos de definición de contenedores.
+- [X] Darse de alta de Docker Hub e instalar las herramientas de Docker.
+- [X] Entender la configuración de infraestructura virtual desde contenedores.
+- [X] Comprender cómo esta configuración forma parte de arquitecturas nativas en la nube.
+- [X] Entender el ecosistema de contenedores y diferentes alternativas a todas las aplicaciones.
