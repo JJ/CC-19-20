@@ -43,6 +43,7 @@
 - [] Instalar las herramientas de línea de órdenes de las herramientas cloud.
 - [] Hacerse con alguna cuenta gratuita o bonificada de cloud.
 
+
 ### Objetivos Hito 3
 - [X] Entender los mecanismos de diseño, prueba y despliegue de un microservicio antes de efectuarlo y enviarlo a la nube.
 - [X] Comprender el papel fundamental de la infraestructura virtual en este proceso.
