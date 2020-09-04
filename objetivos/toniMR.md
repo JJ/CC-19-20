@@ -70,7 +70,7 @@
 
 ## Objetivos Semana 6
 
-[Enlace a los ejercicios del tema Contenedores y cómo usarlos](https://github.com/toniMR/CC-Ejercicios/blob/master/contenedores.md)
+[Enlace a los ejercicios del tema: Contenedores y cómo usarlos](https://github.com/toniMR/CC-Ejercicios/blob/master/contenedores.md)
 
 - [X] Entender las arquitecturas de software en la nube de uso en la actualidad.
 - [X] Comprender el papel fundamental de la infraestructura virtual en este proceso.
@@ -81,6 +81,7 @@
 - [X] Instalar las herramientas de línea de órdenes de las herramientas cloud.
 - [X] Hacerse con alguna cuenta gratuita o bonificada de cloud.
 - [X] Aprender la mínimo de los lenguajes necesarios para trabajar en la nube: Perl, Python y Ruby.
+- [X] Comprender la inversión de dependencias
 
 ## Objetivos Semana 7
 
