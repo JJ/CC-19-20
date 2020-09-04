@@ -72,10 +72,17 @@ Otros objetivos
 
 ## Objetivos hito 4
 
-- [x] Realizar la mayoría de los ejercicios del tema 4. [Ejercicios tema 4](https://github.com/NSInductus/CC_Ejercicios/blob/master/usando_contenedores.md)
 - [x] Aprender a utilizar Taurus.
 - [x] Aprender a utilizar MongoDB así como su versión remota MongoAtlas.
 - [x] Usar correctamente un data_manager.
 - [x] Comprender para que sirve la medición de prestaciones y como se utiliza.
 - [x] Realizar una leve modificación de la arquitectura de mi sistema.
-- [x] Terminar el hito 4.
+- [x] Realizar ejercicios del tema 4. [Ejercicios del tema 4](https://github.com/NSInductus/CC_Ejercicios/blob/master/usando_contenedores.md)
+- [x] Modificar los escenarios de las pruebas de los tests de prestaciones según me indicó el profesor en la corrección.
+- [x] Volver a ejecutar los tests de prestaciones con Taurus sobre los nuevos escenarios diseñados.
+- [x] Revisión ortográfica de la documentación al completo.
+- [x] Mover la inyección de dependencias al README.
+- [x] Eliminar del README documentación de otros hitos y añadirla al índice.
+- [x] Documentar correctamente el nuevo microservicio implementado (Transacciones), así como todo lo relacionado con este microservicio.
+- [x] Dejar listo el hito 4 para ser reenviado.
+
