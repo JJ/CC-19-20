@@ -59,10 +59,13 @@ Enlace a los [ejercicios de contenedores](https://github.com/Solano96/CC-Exercis
 
 ## Objetivos del hito 4
 
-Enlace a los [ejercicios del tema 4](https://github.com/Solano96/CC-Exercises/blob/master/Contenedores.md) de Cloud Computing.
+[Ejercicios del tema 4](https://github.com/Solano96/CC-Exercises/blob/master/Contenedores.md) de Cloud Computing.
 
-- [X] Corregir errores del hito 3.
-- [X] Desplegar el segundo microservicio.
-- [X] Mejorar las prestaciones de los microservicios.
-- [X] Aprender el uso de Taurus.
-- [X] Hacer uso de Taurus para la evaluación de las prestaciones.
+- [x] Corregir errores del hito 3.
+- [x] Terminar de implementar microservicio Mercado.
+- [x] Desplegar el segundo microservicio (Mercado).
+- [x] Mejorar las prestaciones de los microservicios.
+- [x] Aprender el uso de Taurus.
+- [x] Hacer uso de Taurus para la evaluación de las prestaciones.
+- [x] Documentar correctamente el microservicio Mercado.
+- [x] Documentar inyección de dependencias.
