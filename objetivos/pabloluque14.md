@@ -47,3 +47,20 @@ El repositorio de los ejercicios para la asignatura Cloud Computing es: [este](h
 - [x] Seleccionar herramienta de construcción para el proyecto
 - [x] Seleccionar otro sistema de integración continua para el proyecto
 - [x] Entender errores del Hito 2 y corregirlos.
+
+
+
+## Hito 3
+- [] Realizar ejercicios del tema 4 [enlace](https://github.com/pabloluque14/CC_Ejercicios/blob/master/ejercicios_tema3.md)..
+- [x] Entender el ecosistema de contenedores y diferentes alternativas a todas las aplicaciones.
+- [x] Crear el primer microservicio
+- [x] Instalar de la herramienta postman.
+- [x] Instalar la herramienta Apache Benchmark
+- [x] Entender como realizar API REST en flask.
+- [x] Darme de alta en DockerHub y subir el repositorio.
+- [x] Buscar imágenes en Dockerhub para el contenedor
+- [x] Repasar conceptos de microservicio y contenedor.
+- [x] Actualizar el README.
+- [x] Añadir las variables de entorno en Travis y CircleCI.
+- [x] Entender las nociones básicas de seguridad.
+- [x] Terminar el hito 3.
