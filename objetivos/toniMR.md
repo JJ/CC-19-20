@@ -122,12 +122,13 @@
 
 ## Objetivos Semana 12
 
-[Enlace a los ejercicios del tema Provisionamiento en infraestructuras virtuales](https://github.com/toniMR/CC-Ejercicios/blob/master/provisionamiento.md)
+[Enlace a los ejercicios del tema: Provisionamiento en infraestructuras virtuales](https://github.com/toniMR/CC-Ejercicios/blob/master/provisionamiento.md)
 
 - [X] Entender los recursos para automatización de actividades en la nube.
 - [X] Entender el concepto de infraestructura definida por software.
 - [X] Entender el concepto de sistema completo y cómo arrancarlo.
 - [X] Tener listas instalaciones que funcionen de ansible (u otro sistema de medición de prestaciones), vagrant, herramienta de línea de órdenes de Azure o Google.
+- [X] Provisionar máquinas virtuales en Google Cloud con Vagrant y Ansible.
 
 ## Objetivos Semana 13
 
