@@ -86,3 +86,23 @@ Otros objetivos
 - [x] Documentar correctamente el nuevo microservicio implementado (Transacciones), así como todo lo relacionado con este microservicio.
 - [x] Dejar listo el hito 4 para ser reenviado.
 
+## Objetivos del hito 5 CE
+
+- [x] Realizar ejercicios del tema 5. [Ejercicios del tema 5](https://github.com/NSInductus/CC_Ejercicios/blob/master/orquestacion.md)
+- [x] Realizar un estudio de que servicio de computación en la nube era mejor para la práctica.
+- [x] Comprender conceptos de administración de infraestructura virtual.
+- [x] Aprender como funciona Vagrant.
+- [x] Aprender como funciona Ansible.
+- [x] Comprender que es un rol y descargar roles con ansible-galaxy.
+- [x] Crear cuenta gratuita en Azure.
+- [x] Aprender como funciona vagrant-azure y ver ejemplos.
+- [x] Aprender diferentes lenguajes de configuración usados en infraestructuras virtuales.
+- [x] Crear maquinas virtuales de forma local con Vagrant y aprovisionarlas con Ansible.
+- [x] Crear máquinas virtuales de forma remota en Azure.
+- [x] Comprobar con que imagen base funciona mejor mi proyecto.
+- [x] Aprender las diferentes fases de despliegue.
+- [x] Conocer los sistemas de orquestación de máquinas virtuales.
+
+
+
+
