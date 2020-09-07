@@ -69,3 +69,23 @@ Enlace a los [ejercicios de contenedores](https://github.com/Solano96/CC-Exercis
 - [x] Hacer uso de Taurus para la evaluación de las prestaciones.
 - [x] Documentar correctamente el microservicio Mercado.
 - [x] Documentar inyección de dependencias.
+
+
+## Objetivos del hito 5
+
+[Enlace a ejercicios](https://github.com/Solano96/CC-Exercises/blob/master/Orquestacion.md) de Cloud Computing.
+
+- [x] Tener listos diferentes sistemas cloud donde se puedan desplegar máquinas virtuales.
+- [x] Conocer diferentes lugares donde haya imágenes de sistemas operativos listas para usar.
+- [x] Instalar y configurar diferentes sistemas de provisionamiento.
+- [x] Entender los conceptos de los sistemas de máquinas virtuales y cómo configurarlos desde línea de órdenes.
+- [x] Entender las nociones básicas de seguridad.
+- [x] Entender los recursos para automatización de actividades en la nube
+- [x] Entender el concepto de infraestructura definida por software.
+- [x] Entender el concepto de sistema completo y cómo arrancarlo.
+- [x] Tener listas instalaciones que funcionen de ansible.
+- [x] Tener listas instalaciones que funcionen de vagrant.
+- [x] Tener listas instalaciones que funcionen de herramienta de línea de órdenes de Azure.
+- [x] Entender los conceptos medición de prestaciones.
+- [x] Entender los conceptos detrás del aprovisionamiento de una máquina virtual o contenedor.
+- [x] Entender las diferentes fases de despliegue de una aplicación.
