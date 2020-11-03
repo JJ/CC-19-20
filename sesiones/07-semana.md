@@ -23,9 +23,9 @@
 
 ## Material para la clase
 
-* *Teoría*: Empezamos con el siguiente tema, 
+* *Teoría*: Empezamos con el siguiente tema,
   [sobre uso de microservicios](http://jj.github.io/CC/documentos/temas/Microservicios).
-  
+
 * Esta práctica irá
   sobre
   [meter microservicios en un contenedor](http://jj.github.io/CC/documentos/proyecto/3.Docker.html). En

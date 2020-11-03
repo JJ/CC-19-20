@@ -12,10 +12,10 @@ llevar a cabo con éxito las siguientes entregas de hitos.
    conceptos de calidad del software.
 2. Entender el concepto de herramientas de construcción y su
    importancia en la infraestructura virtual.
-   
+
 3. Entender qué son los sistemas de integración continua y cómo
    usarlos.
-   
+
 ## Otros objetivos
 
 1. Darse de alta en plataformas que permitan llevar a cabo

@@ -21,7 +21,7 @@
   6. Sobre el repo
 	 1. Dejar en el directorio principal sólo herramientas de construcción y ficheros de configuración.
 	 2. No usar __init__.py salvo que sea necesario.
-   
+
 ## Material para la clase
 
 [Semana número 11](11-semana.md)

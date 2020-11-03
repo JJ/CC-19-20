@@ -19,7 +19,7 @@
 * Recomendación especial de entregas
   * Alberto Montes, por incluir los servicios imprescindibles en toda
     aplicación basada en microservicios.
-    
+
 * Errores comunes en el segundo envío del proyecto
   * Los diagramas de arquitectura incluyen qué se comunica entre
     diferentes microservicios, no cómo se comunica
